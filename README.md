@@ -3,8 +3,6 @@
 
 The application is a web-based text editor that allows users to create and store notes or code snippets, with or without an internet connection. It ensures reliable retrieval of the saved content for future use. The integration of service workers and the Cache API enables the application to function seamlessly even when there is no active internet connection. This allows users to access previously visited pages even when the application is offline.
 
-You can find the source code of the application on GitHub at the following repository 
-URL:[ GitHub Repository](https://github.com/SanaS7/Text_Editors-PWA-/tree/main).
 
 🚀 The application has been deployed to Heroku, and you can access it using the following URL:
 Deployed Application on Heroku
